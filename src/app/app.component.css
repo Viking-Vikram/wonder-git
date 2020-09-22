@@ -1,42 +1,39 @@
-h1{
-    margin:40px 40px;
-    padding:20px 20px;
-    color: yellow;
-    background:black;
-    font-size:4rem;
-    text-align:center;
+h1 {
+  margin: 40px 40px;
+  padding: 20px 20px;
+  color: yellow;
+  background: rgb(245, 4, 4);
+  font-size: 4rem;
+  text-align: center;
 }
-h2{
-    margin:40px 40px;
-    padding:20px 20px;
-    color:red;
-    background:black;
-    font-size:3rem;
-    text-align:center;
+h2 {
+  margin: 40px 40px;
+  padding: 20px 20px;
+  color: red;
+  background: black;
+  font-size: 3rem;
+  text-align: center;
 }
-h3{
-    text-align: center;
-    margin:40px 40px;
-    padding:20px 20px;
-    color: yellow;
-    background:orange;
-    font-size:1.5rem;
-    
+h3 {
+  text-align: center;
+  margin: 40px 40px;
+  padding: 20px 20px;
+  color: yellow;
+  background: orange;
+  font-size: 1.5rem;
 }
-h4{
-    margin:40px 40px;
-    padding:20px 20px;
-    color: white;
-    background:red;
-    font-size:1.25rem;
-    
-
+h4 {
+  margin: 40px 40px;
+  padding: 20px 20px;
+  color: white;
+  background: red;
+  font-size: 1.25rem;
 }
-nav{
-    text-align: center;
+nav {
+  text-align: center;
 }
 
-div{
-    font-size: larger;
-    font-style: inherit;
+div {
+  font-size: larger;
+  font-style: inherit;
 }
